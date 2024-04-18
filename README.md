@@ -31,7 +31,7 @@ Additionally, if your preference is more hands-on, you can deploy manually to:
 
 ## Usage
 
-This web project is currently deployed [Here](https://ericroys-school.github.io/FSF-Module01-Challenge/)
+This web project is currently deployed [on Github Pages](https://ericroys-school.github.io/horiseon_web/)
 
 The outcome of the project is to deliver a webpage that looks like the mock-up (see below) and incorporates the learned concepts for accessibility.
 
@@ -43,7 +43,7 @@ I would like to thank my kittens for the timely distractions to support proper p
 
 ## License
 
-This project is licensed with the "Unlicense" license. [(Read more here)](..LICENSE)
+This project is licensed with the "Unlicense" license. [(Read more here)](LICENSE)
 
 ## How to Contribute
 
